@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu faço estágio em full stack
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas (4°Semestre)
-- 🌱 Estudando C#/.NET, HTML, CSS, Java
+- 🌱 Estudando C#/.NET, HTML, CSS, Java, SQL Server
 - 📫 Contate-me no E-mail ys.darc@gmail.com
 - 😄 Pronouns: ela/dela
 -->
