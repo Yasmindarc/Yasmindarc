@@ -1,8 +1,10 @@
 ## Olá! Eu sou a Yasmin Darc, Estudante de Programação. 
 
-- 🔭 Hoje eu faço estágio em full stack
+- 🔭 Hoje eu faço estágio com foco em desenvolvimento full stack
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas (5°Semestre)
-- 🌱 Estudando C#/.NET, HTML, CSS, Java, SQL Server
+- 🌱 Connhecimento em linguagens de Backend: Java e C#/.NET
+- 🌱 Connhecimento em linguagens de Frontend: HTML, CSS, JavaScript (Básico)
+- 🌱 Conhecimento em Banco de dados SQL Server
 - 📫 Contate-me no E-mail ys.darc@gmail.com
 - 😄 Pronouns: ela/dela
 -->
